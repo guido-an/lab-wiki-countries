@@ -12,3 +12,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+header{
+  background-color: blue;
+  color: white;
+  padding: 20px
+}
+.country-list div {
+  border: 1px solid #f7f7f7;
+  padding: 10px;
+  max-width: 300px
+}
